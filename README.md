@@ -5,6 +5,7 @@ Este projeto consiste na implementação, validação e solução de problemas (
 
 O ambiente conta com distribuição automática de endereçamento IP (DHCP), resolução de nomes interna (DNS) e hospedagem de aplicação web corporativa (HTTP).
 
+![Topologia da Rede](topologia_rede_corporativa.png)
 ---
 
 ## 📐 Estrutura da Topologia
